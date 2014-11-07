@@ -1,0 +1,19 @@
+{
+	"name": "event-typecaster",
+	"version": "1.0.0",
+	"description": "EventEmitter.emit wrapper that also auto-dispatches `@type` objects",
+	"main": "event-typecaster.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rektide/event-typecaster"
+	},
+	"author": "rektide de la faye <rektide@voodoowarez.com>",
+	"license": "X",
+	"bugs": {
+		"url": "https://github.com/rektide/event-typecaster/issues"
+	},
+	"homepage": "https://github.com/rektide/event-typecaster"
+}
